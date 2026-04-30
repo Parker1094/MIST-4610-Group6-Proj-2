@@ -21,3 +21,4 @@ The dataset used for this project was obtained from Data.gov. It contains real-w
 The dataset includes thousands of records and multiple columns with different types of data, making it well-suited for meaningful analysis. Each record represents an individual collision and includes variables such as crash date and time, location (borough or zip code), number of injuries and fatalities, contributing factors, and vehicle types involved.
 
 This dataset is valuable because it provides insight into real-world accident patterns. It can be used to identify common causes of crashes, evaluate trends over time or location, and support improvements in road safety. Additionally, the data is useful for policymakers and city planners looking to reduce injuries and fatalities and make more informed decisions.
+
