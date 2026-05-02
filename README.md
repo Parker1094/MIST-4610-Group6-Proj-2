@@ -22,3 +22,40 @@ The dataset includes thousands of records and multiple columns with different ty
 
 This dataset is valuable because it provides insight into real-world accident patterns. It can be used to identify common causes of crashes, evaluate trends over time or location, and support improvements in road safety. Additionally, the data is useful for policymakers and city planners looking to reduce injuries and fatalities and make more informed decisions.
 
+## Question 1:
+
+Which contributing factors are associated with the highest number of injuries?
+
+Importance:
+
+Finding out what contributing facotrs lead to the largest number of injuries is crucial to improving road safety for all commuters in NYC. With over 2 million vehichles registered in the State, finding the root causes of the most dangerous collisions allow state officials, law enforcement, and policy makers to zero in on what is most detrimental to road safety.
+
+
+## Insert Visualiaztion Here
+
+
+
+Consulting the graph, we can see that the main contributing factors to collisions involving injuries are Driver Inattention, Failure to Yield Right of Way, and Following to closely. What's most notable is that more injuries are caused by Driver inattention than failure to yield and following to closely combined. The top three contributing factors to injuries suggest that behavioral and human attention based causes far outweigh mechanical/environmental causes. These findings led us to *Insert Question 2 Idea Here*
+
+
+## Question 2:
+
+
+Importance:
+
+## Insert Visualiaztion Here
+
+
+
+
+## Modifications to base data
+
+*Additional Seciton to add what we edited in the excel to clean data / better visualizations.
+
+
+
+
+
+
+
+
