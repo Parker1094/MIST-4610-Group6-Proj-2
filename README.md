@@ -31,8 +31,6 @@ Importance:
 Finding out what contributing facotrs lead to the largest number of injuries is crucial to improving road safety for all commuters in NYC. With over 2 million vehichles registered in the State, finding the root causes of the most dangerous collisions allow state officials, law enforcement, and policy makers to zero in on what is most detrimental to road safety.
 
 
-## Insert Visualiaztion Here
-
 <img width="1131" height="678" alt="Screenshot 2026-05-02 at 3 12 01 PM" src="https://github.com/user-attachments/assets/be66ed5a-6b8c-44ed-9288-9919506da9a8" />
 
 
