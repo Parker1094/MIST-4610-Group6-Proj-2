@@ -40,8 +40,11 @@ Consulting the graph, we can see that the main contributing factors to collision
 
 ## Question 2:
 
+How do injury-causing collisions vary by time of day and location for the top contributing factors identified in Question 1?
 
 Importance:
+
+Understanding how injury-causing collisions vary by time of day and location for the most dangerous contributing factors is essential to improving road safety across NYC. While identifying the leading causes of injuries highlights what behaviors are most harmful, examining when and where these incidents occur allows state officials, law enforcement, and city planners to take more targeted action. With millions of vehicles on the road each day, recognizing patterns in high-risk times and locations can help allocate resources more effectively, implement preventative measures, and ultimately reduce the number of injuries caused by motor vehicle collisions.
 
 ## Insert Visualiaztion Here
 
