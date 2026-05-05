@@ -52,7 +52,7 @@ Understanding how injury-causing collisions vary by time of day and location for
 <img width="1137" height="588" alt="Screenshot 2026-05-04 at 10 53 28 PM" src="https://github.com/user-attachments/assets/029a276f-56ad-4525-98e5-d08577c61ad7" />
 
 
-Through examining the graphs based upon the top three contributing factors of crashes sorted by time and location, we found that all three factors shared a consistent pattern of higher crash rates in hours of rush hours traffic which is pretty typical. However on the location side of things we found that Staten Island was the most consistent in injury rates, followed by Manhattan and the Bronx. Knowing the locations impact on injury trends, it is clear that the most effective bouroughs to target for legislation changes on controbuting factors would be that of Brooklyn and Queens as they are the most prone to injuries overall.
+Through examining the graphs based upon the top three contributing factors of crashes sorted by time and location, we found that all three factors shared a consistent pattern of higher crash rates in hours of rush hours traffic which is pretty typical. However on the location side of things we found that Staten Island was the most consistent in injury rates, followed by Manhattan and the Bronx. Knowing the locations impact on injury trends, it is clear that the most effective bouroughs to target for legislation changes on contributing factors would be that of Brooklyn and Queens as they are the most prone to injuries overall.
 
 
 
