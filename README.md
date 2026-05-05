@@ -45,7 +45,8 @@ Importance:
 
 Understanding how injury-causing collisions vary by time of day and location for the most dangerous contributing factors is essential to improving road safety across NYC. While identifying the leading causes of injuries highlights what behaviors are most harmful, examining when and where these incidents occur allows state officials, law enforcement, and city planners to take more targeted action. With millions of vehicles on the road each day, recognizing patterns in high-risk times and locations can help allocate resources more effectively, implement preventative measures, and ultimately reduce the number of injuries caused by motor vehicle collisions.
 
-## Insert Visualiaztion Here
+<img width="1137" height="588" alt="Screenshot 2026-05-04 at 10 18 34 PM" src="https://github.com/user-attachments/assets/cb290c80-60bd-4213-a7a7-4e857097582e" />
+
 
 
 
