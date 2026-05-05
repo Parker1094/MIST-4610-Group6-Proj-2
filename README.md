@@ -52,7 +52,7 @@ Understanding how injury-causing collisions vary by time of day and location for
 
 ## Modifications to base data
 
-*Additional Seciton to add what we edited in the excel to clean data / better visualizations.
+In the process of creating the first visualization, we found that a large portion of contributing factors were labeled as "uncategorized." This data was unecessary and it's large amount of values skewed the scaling of the causes that had a labed contributing factor. We decided to remove rows that were uncategorized aswell as any null values.
 
 
 
