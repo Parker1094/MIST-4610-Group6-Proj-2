@@ -41,11 +41,11 @@ Consulting the graph, we can see that the main contributing factors to collision
 
 How do injury-causing collisions vary by time of day and location for the top contributing factors identified in Question 1?
 
+
+
 Importance:
 
 Understanding how injury-causing collisions vary by time of day and location for the most dangerous contributing factors is essential to improving road safety across NYC. While identifying the leading causes of injuries highlights what behaviors are most harmful, examining when and where these incidents occur allows state officials, law enforcement, and city planners to take more targeted action. With millions of vehicles on the road each day, recognizing patterns in high-risk times and locations can help allocate resources more effectively, implement preventative measures, and ultimately reduce the number of injuries caused by motor vehicle collisions.
-
-<img width="1137" height="588" alt="Screenshot 2026-05-04 at 10 18 34 PM" src="https://github.com/user-attachments/assets/cb290c80-60bd-4213-a7a7-4e857097582e" />
 
 
 
@@ -54,6 +54,8 @@ Understanding how injury-causing collisions vary by time of day and location for
 ## Modifications to base data
 
 In the process of creating the first visualization, we found that a large portion of contributing factors were labeled as "uncategorized." This data was unecessary and it's large amount of values skewed the scaling of the causes that had a labed contributing factor. We decided to remove rows that were uncategorized aswell as any null values.
+
+As for the creation of the second visualization, the only main filtering we completed was removing null values such as car crashes that didn't have a borough assigned to them. This removed any potential excess data that didn't contribute to answering our second question.
 
 
 
