@@ -35,8 +35,7 @@ Finding out what contributing facotrs lead to the largest number of injuries is 
 
 
 
-Consulting the graph, we can see that the main contributing factors to collisions involving injuries are Driver Inattention, Failure to Yield Right of Way, and Following to closely. What's most notable is that more injuries are caused by Driver inattention than failure to yield and following to closely combined. The top three contributing factors to injuries suggest that behavioral and human attention based causes far outweigh mechanical/environmental causes. These findings led us to *Insert Question 2 Idea Here*
-
+Consulting the graph, we can see that the main contributing factors to collisions involving injuries are Driver Inattention, Failure to Yield Right of Way, and Following to closely. What's most notable is that more injuries are caused by Driver inattention than failure to yield and following to closely combined. The top three contributing factors to injuries suggest that behavioral and human attention based causes far outweigh mechanical/environmental causes. 
 
 ## Question 2:
 
